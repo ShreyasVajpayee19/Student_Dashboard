@@ -1,0 +1,15 @@
+INSTRUCTIONS___________________
+
+1)  Save of the Files.
+2)  Open the starting Page
+3)  LOGIN-----
+     Username-   admin
+     Password-   admin
+
+4)  Add data for the students accordingly.
+
+5) Run the Webpages, all the Functionalities are Present.
+
+
+
+<THANK YOU>
